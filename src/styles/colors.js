@@ -1,0 +1,6 @@
+export const darkBlueEl = 'hsl(209, 23%, 22%)'
+export const darkBlueBG = 'hsl(207, 26%, 17%)'
+export const darkBlueText = 'hsl(200, 15%, 8%)'
+export const darkGray = 'hsl(0, 0%, 52%)'
+export const lightGray = 'hsl(0, 0%, 98%)'
+export const white = 'hsl(0, 0%, 100%)'
